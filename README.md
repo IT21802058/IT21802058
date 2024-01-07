@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21802058&label=Profile%20views&color=0e75b6&style=flat" alt="it21802058" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21802058" alt="it21802058" /></a> </p>
-
 - 👨🏼‍🎓 I’m currently Studying in **Softwear Engineering at SLIIT.**
 
 - 🔭 I’m currently working on **React and Spring project**
