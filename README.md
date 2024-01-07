@@ -1,3 +1,4 @@
+![logo](https://github.com/IT21802058/IT21802058/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Osadha Madhuwantha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
