@@ -3,8 +3,6 @@
 
 <img align="right" alt="codig" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21802058&label=Profile%20views&color=0e75b6&style=flat" alt="it21802058" /> </p>
-
 - 👨🏼‍🎓 I’m currently Studying in **Softwear Engineering at SLIIT.**
 
 - 🔭 I’m currently working on **React and Spring project**
